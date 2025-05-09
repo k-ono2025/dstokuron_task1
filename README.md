@@ -7,4 +7,4 @@ csvファイルは取得した論文の　title、summary、published、year、m
  “artificial intelligence” AND [分野名]　にて検索\
 　分野名："medical", "education", "chemistry", "environment"\
 調査期間\
-　2010年から2024年までの年毎の論文数を集計\
+　2010年から2024年までの年毎の論文数を集計
